@@ -29,6 +29,9 @@ Before you begin, ensure you have met the following requirements:
 
 To get a local copy up and running, follow these steps:
 
+1. Clone the repository to your local machine:
 
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
 
 
